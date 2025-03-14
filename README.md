@@ -39,11 +39,10 @@
 </div>
 
 ###
-
+<img align="left" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
 
 ###
 
