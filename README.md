@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gerall and I'm a student, from Singaperbangsa University</h2>
+<h2 align="left">Hi 👋! I'am Geral and I'm a student, from Singaperbangsa University</h2>
 
 ###
 
