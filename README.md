@@ -1,25 +1,26 @@
-<h2 align="left">Hi 👋! I'am Geral and I'm a student, from Singaperbangsa University</h2>
+<h1 align="center">Hello World! I'm Geral</h1>
 
+![Geral](geralheader.png)
+
+<h3 align="center">A Web3 Developer from Indonesia</h3>
+
+##### About me :D
+- 🔭 I’m currently working on **Web3 Projects**
+
+- 🌱 I’m currently learning **Solidity, Rust, Etc**
+
+- 👯 I’m looking to collaborate on **Web3 Projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+#### Skills
+![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![image](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white) ![image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ###
 
-## 🖥️ My Languages:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
-
-## 🌐 Connect with me:
+#### Connect with me 🌐
 <div align="left">
   <a href="https://www.youtube.com/@geraltritamawahyuady3062" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -27,26 +28,24 @@
   <a href="https://instagram.com/ger.all_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/invite/link_anda" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+
   <a href="mailto:geraltritama33@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/username_anda" target="_blank">
+  <a href="https://linkedin.com/in/geral-tritama-wahyuady-90b897287" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
-###
-<img align="left" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-###
-
-<br clear="both">
 
 
-###
+#### GitHub Trophies 🏆
+![s](https://github-profile-trophy.vercel.app/?username=geraltritama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+![helo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGk3bW5hNHMzam0wNGVmbHg1YjhkamN0cjdwdncyYzJzeG9hcTdqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif)
+
+#### Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraltritama&stats_format=bytes)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraltritama&show_icons=true&theme=tokyonight)
