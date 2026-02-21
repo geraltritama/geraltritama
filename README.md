@@ -37,17 +37,7 @@
 </div>
 
 
-
-#### GitHub Trophies 🏆
-![s](https://github-profile-trophy.vercel.app/?username=geraltritama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 ![helo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGk3bW5hNHMzam0wNGVmbHg1YjhkamN0cjdwdncyYzJzeG9hcTdqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif)
-
-#### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraltritama&stats_format=bytes)
-
-![g](https://github-readme-stats.vercel.app/api?username=geraltritama&show_icons=true&theme=tokyonight)
 
 
 <img src="https://raw.githubusercontent.com/geraltritama/geraltritama/output/snake.svg" alt="Snake animation" />
