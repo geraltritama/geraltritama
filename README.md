@@ -7,7 +7,7 @@
 ##### About me :D
 - 🔭 I’m currently working on **Web3 Projects**
 
-- 🌱 I’m currently learning **Solidity, Rust, Etc**
+- 🌱 I’m currently learning **Solidity, Rust, Solana Ecosystem**
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
