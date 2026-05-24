@@ -2,10 +2,10 @@
 
 ![Geral](geralheader.png)
 
-<h3 align="center">A Web3 Developer from Indonesia</h3>
+<h3 align="center">A Full Stack Web Developer from Indonesia</h3>
 
 ##### About me :D
-- 🔭 I’m currently working on **Web3 Projects**
+- 🔭 I’m currently working on **Web 3 Projects**
 
 - 🌱 I’m currently learning **Solidity, Rust, TypeScript**
 
