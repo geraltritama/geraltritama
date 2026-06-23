@@ -1,10 +1,7 @@
-<h1 align="center">Hello World! I'm Geral</h1>
-
-![Geral](geralheader.png)
-
+<h1 align="center">I'm Geral</h1>
 <h3 align="center">A Full Stack Web Developer from Indonesia</h3>
 
-##### About me :D
+##### About me 
 - 🔭 I’m currently working on **Web 3 Projects**
 
 - 🌱 I’m currently learning **Solidity, Rust, TypeScript**
