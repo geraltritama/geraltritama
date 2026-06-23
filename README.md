@@ -33,10 +33,6 @@
   </a>
 </div>
 
-
-![helo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGk3bW5hNHMzam0wNGVmbHg1YjhkamN0cjdwdncyYzJzeG9hcTdqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif)
-
-
 <img src="https://raw.githubusercontent.com/geraltritama/geraltritama/output/snake.svg" alt="Snake animation" />
 
 ###
