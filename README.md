@@ -2,11 +2,11 @@
 <h3 align="center">A Full Stack Web Developer from Indonesia</h3>
 
 ##### About me 
-- 🔭 I’m currently working on **Web 3 Projects**
+- I’m currently working on **Web 3 Projects**
 
-- 🌱 I’m currently learning **Solidity, Rust, TypeScript**
+- I’m currently learning **Solidity, Rust, TypeScript**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- I’m looking to collaborate on **Web3 Projects**
 
 <p align="left">
 </p>
