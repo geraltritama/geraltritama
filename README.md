@@ -92,8 +92,6 @@ const geral = {
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=geraltritama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="" />
   <img width="49%" src="https://streak-stats.demolab.com?user=geraltritama&theme=tokyonight&hide_border=true" alt="" />
@@ -101,7 +99,10 @@ const geral = {
 
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=geraltritama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=geraltritama&theme=tokyo-night&hide_border=true&area=true" alt="" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=geraltritama&theme=tokyo-night&hide_border=true&area=true" alt="" />
 </div>
 
 ---
