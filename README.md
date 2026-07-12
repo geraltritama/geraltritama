@@ -1,11 +1,9 @@
-<div align="center">
-
 <!-- Hero Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:0d2137&height=160&section=header" />
-
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:0d2137&height=160&section=header" /> -->
+<div align="center">
 <!-- Name with gradient -->
-<img src="header-name.svg" alt="Geral Tritama" />
-<p><b>Full Stack Web Developer</b></p>
+<img width="100%" src="header-name2.svg" alt="Geral Tritama" />
+<!-- <p><b>Full Stack Web Developer</b></p> -->
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2dd4bf&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=AI+%26+Web3+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
