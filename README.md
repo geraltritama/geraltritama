@@ -41,15 +41,30 @@
 const geral = {
   name: "Geral Tritama",
   location: "Indonesia",
-  role: "Full Stack Web Developer",
-  interests: ["Artificial Intelligence", "Web3", "Blockchain", "Mobile Apps"],
+  role: ["Full Stack Engineer", "AI Engineer"]
+  interests: [
+    "Artificial Intelligence", 
+    "Web3",
+    "Blockchain",
+    "Mobile Development",
+    "Workflow Automation",
+  ],
 
-  currentlyWorkingOn: "Web Development Projects",
-  currentlyLearning: ["Solidity", "Rust", "TypeScript", "Dart", "Swift"],
-  lookingToCollaborate: "Web, Mobile & Web3 Projects",
+  currentlyWorkingOn: "Full Stack Engineer",
+  currentlyLearning: [
+    "Dart", "Swift",
+    "React Native", "Ionic", "Angular",
+    "NestJS", "n8n", "Zapier",
+    "LLMs & LangChain"
+  ],
+  lookingToCollaborateOn: [
+    "Fullstack Projects",
+    "Web3 dApps",
+    "AI Integrations"
+  ],
 
   funFact: "I break things first, then build them better"
-};
+} as const;
 ```
 
 <div align="center">
