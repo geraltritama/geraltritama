@@ -54,7 +54,7 @@ const geral = {
 
 <div align="center">
 
-**Current Focus** — Building modern web & mobile applications while exploring AI & Web3 technologies
+**Current Focus** - Building modern web & mobile applications while exploring AI & Web3 technologies
 
 </div>
 
