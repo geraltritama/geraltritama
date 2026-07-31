@@ -49,7 +49,6 @@ const geral = {
     "Mobile Development",
     "Workflow Automation",
   ],
-
   currentlyWorkingOn: "Full Stack Engineer",
   currentlyLearning: [
     "Dart", "Swift",
